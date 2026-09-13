@@ -1,0 +1,14 @@
+{
+    "usuarioValido": {
+        "nombre": "Gise",
+        "apellido": "Martin",
+        "email": "e.giii.martin@gmail.com",
+        "contraseña": "QAautgise"
+    },
+        "usuarioInvalido": {
+        "nombre": "prueba",
+        "apellido": "invalido",
+        "email": "gmail.com",
+        "contraseña": "123"
+    }
+}
